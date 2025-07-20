@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisaellamueller
 - 👀 I’m interested in Data Science, ML and Software Engineering!
-- 🌱 I’m currently learning DataIKU and C++
+- 🌱 I’m currently C++
 
 
 <!---
