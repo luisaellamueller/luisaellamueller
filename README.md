@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luisaellamueller
 - 👀 I’m interested in Data Science, ML and Software Engineering!
-- 🌱 I’m currently C++
+- 🌱 I’m currently learning VIM and coding my homelab!
 
 
 <!---
